@@ -30,6 +30,8 @@ jobs:
         env:
           INFURA_KEY: "${{ secrets.INFURA_KEY }}"
           PRIVATE_KEY: "${{ secrets.PRIVATE_KEY }}"
+      - name: Install node-gyp
+        run: npm install -g node-gyp
       - name: Install Aracred
         run: npm ci
       - name: Install Aragon
