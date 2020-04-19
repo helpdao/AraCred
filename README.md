@@ -1,9 +1,6 @@
 ![Run SourceCred](https://github.com/aracred/AraCred/workflows/Run%20SourceCred/badge.svg)
 ![Run aragonCLI](https://github.com/aracred/AraCred/workflows/Run%20aragonCLI/badge.svg)
 
-![Run SourceCred](https://github.com/aracred/AraCred/workflows/Run%20SourceCred/badge.svg)
-![Run aragonCLI](https://github.com/aracred/AraCred/workflows/Run%20aragonCLI/badge.svg)
-
 <br>
 
 ![HelpDAO Logo](https://avatars0.githubusercontent.com/u/62441206?s=200&v=4)
