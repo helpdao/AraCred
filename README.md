@@ -6,7 +6,7 @@
 ![HelpDAO Logo](https://avatars0.githubusercontent.com/u/62441206?s=200&v=4)
 ![AraCred Logo](https://avatars3.githubusercontent.com/u/63201387?s=200&v=4)
 
-# TE Commons
+# HelpDAO AraCred
 
 Currently AraCred is running on:
 - [HelpDAO Discord](https://discord.gg/4mCRjT7)
