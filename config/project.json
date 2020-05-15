@@ -3,6 +3,18 @@
     "type": "sourcecred/project",
     "version": "0.4.0"
   },
+  {
+    "id": "@AraCred",
+    "discord": {
+      "guildId": "690584551239581708",
+      "reactionWeights": {
+        "👍": 1,
+        "🔥": 1,
+        "❤️": 1,
+        "💯": 1,
+        "🙏": 1
+      }
+    },
     "identities": [
       {
         "username": "burrrata",
@@ -27,14 +39,6 @@
       }
     ],
     "repoIds": [
-      {
-        "name": "AraCred",
-        "owner": "HelpDAO"
-      },
-      {
-        "name": "TheSource",
-        "owner": "HelpDAO"
-      },
       {
         "name": "donation-backend",
         "owner": "HelpDAO"
